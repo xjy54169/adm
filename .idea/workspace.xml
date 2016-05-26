@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="179b58ca-567c-4879-a8df-06165097c17c" name="Default" comment="" />
+    <ignored path="xuAdm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/../xuCommen/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../xuCommen/build/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/../www/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../www/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../xuCommen">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/../xuCommen">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../xuCommon">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../www">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xuAdm" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xuAdm" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value=":www" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xuAdm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="Tag Library Descriptor" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="xuAdm" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value=":xuCommon" />
+                <option name="path" value="$PROJECT_DIR$/../xuCommon" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":www" />
+                <option name="path" value="$PROJECT_DIR$/../www" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="xuAdm" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$/../www">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':www'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':www'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':www'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':www'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':www'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':www'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':www'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../www" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'xuAdm'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'xuAdm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'xuAdm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'xuAdm'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prod" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'xuAdm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'xuAdm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'xuAdm' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xuCommon">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':xuCommon'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':xuCommon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':xuCommon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':xuCommon'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':xuCommon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':xuCommon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':xuCommon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="D:/leqian_git/adm" value="4361387954607" />
+        <entry key="$PROJECT_DIR$" value="5851777413427" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/../www">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/activation-1.1.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/aopalliance-1.0.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/axis-1.4.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-codec-1.9.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-collections-3.2.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-discovery-0.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-fileupload-1.3.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-httpclient-3.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-io-2.4.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-lang3-3.3.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-logging-1.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-pool-1.5.7.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/dom4j-1.6.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/fastjson-1.1.35.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/httpclient-4.3.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/httpcore-4.3.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jackson-annotations-2.6.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jackson-core-2.6.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jackson-databind-2.6.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/javassist-3.20.0-GA.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jaxen-1.1.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jaxrpc.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jdom-1.0.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/joda-time-2.9.3.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-1.2-api-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-api-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-core-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-slf4j-impl-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/mybatis-3.2.8.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/mybatis-spring-1.2.4.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/mysql-connector-java-5.1.38.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/ognl-3.1.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/slf4j-api-1.7.21.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-aop-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-beans-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-context-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-context-support-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-core-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-expression-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-jdbc-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-tx-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-web-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-webmvc-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spymemcached-2.12.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/taglibs-standard-impl-1.2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/taglibs-standard-spec-1.2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/thymeleaf-2.1.4.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/unbescape-1.1.2.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/wsdl4j-1.5.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/wstx-asl-3.2.9.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/xfire-all-1.2.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/XmlSchema-1.4.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/xstream-1.3.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib_compile/servlet-api.jar" />
+                            <option value="$MODULE_DIR$/lib/annogen-0.1.0.jar" />
+                            <option value="$MODULE_DIR$/lib/apns-1.0.0.Beta7.jar" />
+                            <option value="$MODULE_DIR$/lib/axiom-api-1.2.7.jar" />
+                            <option value="$MODULE_DIR$/lib/axiom-impl-1.2.7.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-adb-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-jaxws-api-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-jws-api-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-kernel-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-saaj-api-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/backport-util-concurrent-3.1.jar" />
+                            <option value="$MODULE_DIR$/lib/bcprov-jdk16-145-1.jar" />
+                            <option value="$MODULE_DIR$/lib/bctsp-jdk15-146.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-net-2.0.jar" />
+                            <option value="$MODULE_DIR$/lib/itext-asian.jar" />
+                            <option value="$MODULE_DIR$/lib/itextpdf-5.5.3.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.mail-1.5.5.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxb-api-2.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxb-impl-2.1.6.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxb-xjc-2.1.6.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxr-impl-1.0.6-sources.jar" />
+                            <option value="$MODULE_DIR$/lib/jettison-1.0-RC2.jar" />
+                            <option value="$MODULE_DIR$/lib/jibx-run-1.1.5.jar" />
+                            <option value="$MODULE_DIR$/lib/json-simple-1.1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jsoup-1.8.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jta-1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jxl.jar" />
+                            <option value="$MODULE_DIR$/lib/MiPush_SDK_Server_2_2_16.jar" />
+                            <option value="$MODULE_DIR$/lib/neethi-2.0.4.jar" />
+                            <option value="$MODULE_DIR$/lib/PKIBASE.jar" />
+                            <option value="$MODULE_DIR$/lib/poi-3.13-20150929.jar" />
+                            <option value="$MODULE_DIR$/lib/quartz-2.2.3.jar" />
+                            <option value="$MODULE_DIR$/lib/quartz-jobs-2.2.3.jar" />
+                            <option value="$MODULE_DIR$/lib/RA2.jar" />
+                            <option value="$MODULE_DIR$/lib/woden-api-1.0M8.jar" />
+                            <option value="$MODULE_DIR$/lib/woden-impl-dom-1.0M8.jar" />
+                            <option value="$MODULE_DIR$/lib/xalan-2.7.0.jar" />
+                            <option value="$MODULE_DIR$/lib/xmlbeans-2.6.0.jar" />
+                            <option value="$MODULE_DIR$/lib/xmlsec-1.3.0.jar" />
+                            <option value="$MODULE_DIR$/lib/zxing-core-3.1.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/../www" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/activation-1.1.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/aopalliance-1.0.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/axis-1.4.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-codec-1.9.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-collections-3.2.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-discovery-0.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-fileupload-1.3.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-httpclient-3.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-io-2.4.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-lang3-3.3.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-logging-1.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-pool-1.5.7.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/dom4j-1.6.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/fastjson-1.1.35.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/httpclient-4.3.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/httpcore-4.3.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jackson-annotations-2.6.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jackson-core-2.6.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jackson-databind-2.6.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/javassist-3.20.0-GA.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jaxen-1.1.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jaxrpc.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jdom-1.0.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/joda-time-2.9.3.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-1.2-api-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-api-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-core-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-slf4j-impl-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/mybatis-3.2.8.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/mybatis-spring-1.2.4.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/mysql-connector-java-5.1.38.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/ognl-3.1.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/slf4j-api-1.7.21.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-aop-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-beans-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-context-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-context-support-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-core-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-expression-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-jdbc-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-tx-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-web-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-webmvc-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spymemcached-2.12.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/taglibs-standard-impl-1.2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/taglibs-standard-spec-1.2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/thymeleaf-2.1.4.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/unbescape-1.1.2.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/wsdl4j-1.5.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/wstx-asl-3.2.9.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/xfire-all-1.2.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/XmlSchema-1.4.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/xstream-1.3.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib_compile/servlet-api.jar" />
+                            <option value="$MODULE_DIR$/lib/annogen-0.1.0.jar" />
+                            <option value="$MODULE_DIR$/lib/apns-1.0.0.Beta7.jar" />
+                            <option value="$MODULE_DIR$/lib/axiom-api-1.2.7.jar" />
+                            <option value="$MODULE_DIR$/lib/axiom-impl-1.2.7.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-adb-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-jaxws-api-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-jws-api-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-kernel-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-saaj-api-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/backport-util-concurrent-3.1.jar" />
+                            <option value="$MODULE_DIR$/lib/bcprov-jdk16-145-1.jar" />
+                            <option value="$MODULE_DIR$/lib/bctsp-jdk15-146.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-net-2.0.jar" />
+                            <option value="$MODULE_DIR$/lib/itext-asian.jar" />
+                            <option value="$MODULE_DIR$/lib/itextpdf-5.5.3.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.mail-1.5.5.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxb-api-2.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxb-impl-2.1.6.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxb-xjc-2.1.6.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxr-impl-1.0.6-sources.jar" />
+                            <option value="$MODULE_DIR$/lib/jettison-1.0-RC2.jar" />
+                            <option value="$MODULE_DIR$/lib/jibx-run-1.1.5.jar" />
+                            <option value="$MODULE_DIR$/lib/json-simple-1.1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jsoup-1.8.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jta-1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jxl.jar" />
+                            <option value="$MODULE_DIR$/lib/MiPush_SDK_Server_2_2_16.jar" />
+                            <option value="$MODULE_DIR$/lib/neethi-2.0.4.jar" />
+                            <option value="$MODULE_DIR$/lib/PKIBASE.jar" />
+                            <option value="$MODULE_DIR$/lib/poi-3.13-20150929.jar" />
+                            <option value="$MODULE_DIR$/lib/quartz-2.2.3.jar" />
+                            <option value="$MODULE_DIR$/lib/quartz-jobs-2.2.3.jar" />
+                            <option value="$MODULE_DIR$/lib/RA2.jar" />
+                            <option value="$MODULE_DIR$/lib/woden-api-1.0M8.jar" />
+                            <option value="$MODULE_DIR$/lib/woden-impl-dom-1.0M8.jar" />
+                            <option value="$MODULE_DIR$/lib/xalan-2.7.0.jar" />
+                            <option value="$MODULE_DIR$/lib/xmlbeans-2.6.0.jar" />
+                            <option value="$MODULE_DIR$/lib/xmlsec-1.3.0.jar" />
+                            <option value="$MODULE_DIR$/lib/zxing-core-3.1.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../xuCommon">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/activation-1.1.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/aopalliance-1.0.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/axis-1.4.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-codec-1.9.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-collections-3.2.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-discovery-0.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-fileupload-1.3.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-httpclient-3.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-io-2.4.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-lang3-3.3.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-logging-1.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/commons-pool-1.5.7.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/dom4j-1.6.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/fastjson-1.1.35.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/httpclient-4.3.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/httpcore-4.3.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jackson-annotations-2.6.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jackson-core-2.6.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jackson-databind-2.6.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/javassist-3.20.0-GA.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jaxen-1.1.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jaxrpc.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/jdom-1.0.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/joda-time-2.9.3.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-1.2-api-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-api-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-core-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/log4j-slf4j-impl-2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/mybatis-3.2.8.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/mybatis-spring-1.2.4.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/mysql-connector-java-5.1.38.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/ognl-3.1.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/slf4j-api-1.7.21.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-aop-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-beans-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-context-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-context-support-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-core-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-expression-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-jdbc-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-tx-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-web-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spring-webmvc-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/spymemcached-2.12.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/taglibs-standard-impl-1.2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/taglibs-standard-spec-1.2.5.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/thymeleaf-2.1.4.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/unbescape-1.1.2.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/wsdl4j-1.5.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/wstx-asl-3.2.9.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/xfire-all-1.2.6.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/XmlSchema-1.4.2.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib/xstream-1.3.1.jar" />
+                            <option value="$PROJECT_DIR$/../xuCommon/lib_compile/servlet-api.jar" />
+                            <option value="$MODULE_DIR$/lib/annogen-0.1.0.jar" />
+                            <option value="$MODULE_DIR$/lib/apns-1.0.0.Beta7.jar" />
+                            <option value="$MODULE_DIR$/lib/axiom-api-1.2.7.jar" />
+                            <option value="$MODULE_DIR$/lib/axiom-impl-1.2.7.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-adb-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-jaxws-api-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-jws-api-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-kernel-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/axis2-saaj-api-1.4.1.jar" />
+                            <option value="$MODULE_DIR$/lib/backport-util-concurrent-3.1.jar" />
+                            <option value="$MODULE_DIR$/lib/bcprov-jdk16-145-1.jar" />
+                            <option value="$MODULE_DIR$/lib/bctsp-jdk15-146.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-net-2.0.jar" />
+                            <option value="$MODULE_DIR$/lib/itext-asian.jar" />
+                            <option value="$MODULE_DIR$/lib/itextpdf-5.5.3.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.mail-1.5.5.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxb-api-2.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxb-impl-2.1.6.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxb-xjc-2.1.6.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxr-impl-1.0.6-sources.jar" />
+                            <option value="$MODULE_DIR$/lib/jettison-1.0-RC2.jar" />
+                            <option value="$MODULE_DIR$/lib/jibx-run-1.1.5.jar" />
+                            <option value="$MODULE_DIR$/lib/json-simple-1.1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jsoup-1.8.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jta-1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jxl.jar" />
+                            <option value="$MODULE_DIR$/lib/MiPush_SDK_Server_2_2_16.jar" />
+                            <option value="$MODULE_DIR$/lib/neethi-2.0.4.jar" />
+                            <option value="$MODULE_DIR$/lib/PKIBASE.jar" />
+                            <option value="$MODULE_DIR$/lib/poi-3.13-20150929.jar" />
+                            <option value="$MODULE_DIR$/lib/quartz-2.2.3.jar" />
+                            <option value="$MODULE_DIR$/lib/quartz-jobs-2.2.3.jar" />
+                            <option value="$MODULE_DIR$/lib/RA2.jar" />
+                            <option value="$MODULE_DIR$/lib/woden-api-1.0M8.jar" />
+                            <option value="$MODULE_DIR$/lib/woden-impl-dom-1.0M8.jar" />
+                            <option value="$MODULE_DIR$/lib/xalan-2.7.0.jar" />
+                            <option value="$MODULE_DIR$/lib/xmlbeans-2.6.0.jar" />
+                            <option value="$MODULE_DIR$/lib/xmlsec-1.3.0.jar" />
+                            <option value="$MODULE_DIR$/lib/zxing-core-3.1.0.jar" />
+                            <option value="$MODULE_DIR$/lib/activation-1.1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/aopalliance-1.0.jar" />
+                            <option value="$MODULE_DIR$/lib/axis-1.4.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-codec-1.9.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-collections-3.2.2.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-discovery-0.5.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-fileupload-1.3.1.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-httpclient-3.1.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-io-2.4.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-lang3-3.3.2.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-logging-1.2.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-pool-1.5.7.jar" />
+                            <option value="$MODULE_DIR$/lib/dom4j-1.6.1.jar" />
+                            <option value="$MODULE_DIR$/lib/fastjson-1.1.35.jar" />
+                            <option value="$MODULE_DIR$/lib/httpclient-4.3.5.jar" />
+                            <option value="$MODULE_DIR$/lib/httpcore-4.3.2.jar" />
+                            <option value="$MODULE_DIR$/lib/jackson-annotations-2.6.6.jar" />
+                            <option value="$MODULE_DIR$/lib/jackson-core-2.6.6.jar" />
+                            <option value="$MODULE_DIR$/lib/jackson-databind-2.6.6.jar" />
+                            <option value="$MODULE_DIR$/lib/javassist-3.20.0-GA.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxen-1.1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jaxrpc.jar" />
+                            <option value="$MODULE_DIR$/lib/jdom-1.0.jar" />
+                            <option value="$MODULE_DIR$/lib/joda-time-2.9.3.jar" />
+                            <option value="$MODULE_DIR$/lib/log4j-1.2-api-2.5.jar" />
+                            <option value="$MODULE_DIR$/lib/log4j-api-2.5.jar" />
+                            <option value="$MODULE_DIR$/lib/log4j-core-2.5.jar" />
+                            <option value="$MODULE_DIR$/lib/log4j-slf4j-impl-2.5.jar" />
+                            <option value="$MODULE_DIR$/lib/mybatis-3.2.8.jar" />
+                            <option value="$MODULE_DIR$/lib/mybatis-spring-1.2.4.jar" />
+                            <option value="$MODULE_DIR$/lib/mysql-connector-java-5.1.38.jar" />
+                            <option value="$MODULE_DIR$/lib/ognl-3.1.2.jar" />
+                            <option value="$MODULE_DIR$/lib/slf4j-api-1.7.21.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-aop-4.2.5.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-beans-4.2.5.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-context-4.2.5.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-context-support-4.2.5.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-core-4.2.5.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-expression-4.2.5.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-jdbc-4.2.5.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-tx-4.2.5.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-web-4.2.5.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-webmvc-4.2.5.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spymemcached-2.12.1.jar" />
+                            <option value="$MODULE_DIR$/lib/taglibs-standard-impl-1.2.5.jar" />
+                            <option value="$MODULE_DIR$/lib/taglibs-standard-spec-1.2.5.jar" />
+                            <option value="$MODULE_DIR$/lib/thymeleaf-2.1.4.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/unbescape-1.1.2.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/wsdl4j-1.5.1.jar" />
+                            <option value="$MODULE_DIR$/lib/wstx-asl-3.2.9.jar" />
+                            <option value="$MODULE_DIR$/lib/xfire-all-1.2.6.jar" />
+                            <option value="$MODULE_DIR$/lib/XmlSchema-1.4.2.jar" />
+                            <option value="$MODULE_DIR$/lib/xstream-1.3.1.jar" />
+                            <option value="$MODULE_DIR$/lib_compile/servlet-api.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/../xuCommon" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="xuAdm" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/gradle-2.8/lib/ant-1.9.3.jar" />
+                  <option value="D:/gradle-2.8/lib/ant-launcher-1.9.3.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-base-services-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-base-services-groovy-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-cli-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-core-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-docs-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-launcher-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-messaging-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-model-core-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-model-groovy-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-native-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-open-api-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-resources-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-tooling-api-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-ui-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/gradle-wrapper-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/groovy-all-2.4.4.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-announce-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-antlr-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-build-comparison-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-build-init-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-code-quality-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-dependency-management-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-diagnostics-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-ear-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-ide-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-ide-native-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-ivy-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-jacoco-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-javascript-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-jetty-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-language-groovy-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-language-java-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-language-jvm-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-language-native-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-language-scala-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-maven-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-osgi-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-platform-base-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-platform-jvm-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-platform-native-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-platform-play-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-plugin-development-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-plugin-use-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-plugins-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-publish-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-reporting-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-resources-http-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-resources-s3-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-resources-sftp-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-scala-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-signing-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-sonar-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-test-kit-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-testing-native-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/gradle-tooling-api-builders-2.8.jar" />
+                  <option value="D:/gradle-2.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../xuCommen/build.gradle" />
+        <option value="$PROJECT_DIR$/../xuCommen/settings.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/../xuCommon/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.xjy/spring-quartz.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2_prod.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xjy/adm/SessionInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/../xuCommon/src/main/resources/com.xjy/spring-mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/css/login.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/css/xjy.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/login/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/www/welcome.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/inc/js.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/inc/css.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/login/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/inc/css.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/inc/js.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xjy/adm/login/loginController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/www/welcome.jsp" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xuAdm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xuAdm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xuAdm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xuGit\xuAdm\src\main\webapp\static" />
+      <recent name="D:\xuGit\xuAdm\src\main\webapp\static\js" />
+      <recent name="D:\xuGit\xuAdm\src\main\webapp\static\css" />
+      <recent name="D:\xuGit\xuAdm\src\main\webapp\static\img" />
+      <recent name="D:\xuGit\xuCommon\src\main\resources\com.xjy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xjy.adm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xuGit\xuAdm\src\main\webapp\WEB-INF" />
+      <recent name="D:\xuGit\xuAdm\src\main\webapp" />
+      <recent name="D:\xuGit\xuCommon\src\main\resources\com.xjy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.xuAdm::xuGit:www [build]">
+    <configuration default="false" name="xuAdm::xuGit:xuCommon [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../xuCommon" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="xuAdm [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="xuAdm [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="www" />
+      <setting name="path" value="file://$PROJECT_DIR$/../www/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/../www" />
+      <setting name="debug" value="false" />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="false" name="xuAdm::xuGit:www [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../www" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="xuAdm" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/index.jsp" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="Gradle : xuAdm : xuAdm.war (exploded)">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_xuAdm" />
+        <option name="HTTP_PORT" value="80" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51100" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : xuAdm : xuAdm.war (exploded)" />
+        </option>
+      </method>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.xuAdm" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.xuAdm::xuGit:xuCommon [build]" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.xuAdm [clean]" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.xuAdm [build]" />
+      <item index="4" class="java.lang.String" itemvalue="Groovy.build" />
+      <item index="5" class="java.lang.String" itemvalue="Gradle.xuAdm::xuGit:www [build]" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.xuAdm::xuGit:www [build]" />
+        <item index="1" class="java.lang.String" itemvalue="Groovy.build" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.xuAdm [build]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.xuAdm [clean]" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.xuAdm::xuGit:xuCommon [build]" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="179b58ca-567c-4879-a8df-06165097c17c" name="Default" comment="" />
+      <created>1461050347030</created>
+      <option name="number" value="Default" />
+      <updated>1461050347030</updated>
+      <workItem from="1461050349280" duration="3681000" />
+      <workItem from="1461116557747" duration="6751000" />
+      <workItem from="1461201362264" duration="2574000" />
+      <workItem from="1461638659099" duration="83000" />
+      <workItem from="1462266395978" duration="3198000" />
+      <workItem from="1462781521631" duration="50000" />
+      <workItem from="1462870674668" duration="2131000" />
+      <workItem from="1462929348185" duration="631000" />
+      <workItem from="1463127300285" duration="1130000" />
+      <workItem from="1463390064863" duration="3640000" />
+      <workItem from="1463466828712" duration="1429000" />
+      <workItem from="1463471289954" duration="41000" />
+      <workItem from="1463646460881" duration="2858000" />
+      <workItem from="1463650163692" duration="1217000" />
+      <workItem from="1463736632614" duration="1703000" />
+      <workItem from="1463993755308" duration="5551000" />
+      <workItem from="1464053816165" duration="24000" />
+      <workItem from="1464085110960" duration="1787000" />
+      <workItem from="1464138858987" duration="9967000" />
+      <workItem from="1464155663038" duration="4573000" />
+      <workItem from="1464227029393" duration="151000" />
+      <workItem from="1464227278578" duration="1162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54332000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3315734" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17740232" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15520833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/www/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="84" selection-start-line="34" selection-start-column="84" selection-end-line="34" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xuCommon/src/main/resources/com.xjy/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2_prod.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xuCommon/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xuCommon/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xuCommon/xuCommon.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xuCommon/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38344225">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xjy/adm/SessionInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.119825706">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2_prod.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29763246">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5208568">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xuCommon/src/main/resources/com.xjy/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27282977">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14789917">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xuCommon/src/main/resources/com.xjy/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025611175">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/img/default.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.8305087">
+          <caret line="35" column="87" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4814815">
+          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40636042">
+          <caret line="4" column="36132" selection-start-line="4" selection-start-column="36120" selection-end-line="4" selection-end-column="36132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5555556">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4074074">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/inc/js.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.122392215">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/xjy.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030598054">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51088536">
+          <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17385258">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/inc/css.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.091794156">
+          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xjy/adm/login/loginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58666664">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/www/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2753825">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46933332">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : www:www : www.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>www</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

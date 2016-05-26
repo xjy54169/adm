@@ -1,0 +1,47 @@
+
+
+apply plugin: 'java'
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+    sourceCompatibility = '1.8'
+    targetCompatibility = '1.8'
+}
+apply plugin: 'war'
+task dev(type: War, dependsOn: classes) {
+    rootSpec.eachFile { details ->
+        if (details.name == 'servlet-api.jar'
+                || details.name == 'log4j2_prod.xml'
+        ) {
+            details.exclude()
+        }
+    }
+}
+task prod(type: War, dependsOn: classes) {
+    def date = new Date()
+    version = date.format('yyyyMMddHHmmss')
+    classifier = 'prod'
+    exclude 'static'
+    rootSpec.eachFile { details ->
+        if (details.name == 'servlet-api.jar'
+                || details.name == 'application.properties'
+                || details.name == 'log4j2.xml'
+        ) {
+            details.exclude()
+        }
+        if (details.name == 'log4j2_prod.xml') {
+            details.name = 'log4j2.xml'
+        }
+    }
+}
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    compile project(':xuCommon')
+    compile fileTree(dir: 'lib', include: '*.jar')
+}
